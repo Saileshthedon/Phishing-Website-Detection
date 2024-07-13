@@ -82,6 +82,6 @@
 🔥Multi-Factor-Authentication - Encourage or enforce the use of MFA for online services. Even if users fall for a phishing attack and provide their credentials, MFA can provide an additional layer of protection.<br>
 
 
-![image](https://github.com/HashimHB/Phishing-Website-Detection/assets/78270317/226271fa-d575-4f7f-98ec-b6ed3a73bf1f)
+![image](https://github.com/Saileshthedon/Phishing-Website-Detection/assets/78270317/226271fa-d575-4f7f-98ec-b6ed3a73bf1f)
 
 
